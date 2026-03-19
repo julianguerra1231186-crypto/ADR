@@ -37,6 +37,12 @@ Esta carpeta contiene:
   - Correcta ejecución en Docker  
   - Pruebas de endpoints en Postman  
 
+
+🔗 Enlace al ADR-001:  
+https://github.com/julianguerra1231186-crypto/ADR/blob/main/ARD1/adr.md
+
+
+
 ---
 
 ### 📂 2. ADR-002 — (Espacio para siguiente decisión arquitectónica)
