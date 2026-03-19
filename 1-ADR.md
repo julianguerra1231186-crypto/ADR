@@ -8,6 +8,17 @@
 
 ---
 
+## 📌 Mesa de Trabajo — Historias de Usuario
+
+Las historias de usuario relacionadas con la implementación del ADR-001 y el seguimiento del desarrollo pueden ser evidenciadas en la siguiente mesa de trabajo en Jira.
+
+En este espacio se documenta la planificación, ejecución y avance de las actividades realizadas durante el proceso de refactorización del microservicio `ms-users`.
+
+🔗 Acceso a la mesa de trabajo:  
+https://julianguerra1231186-1773894024267.atlassian.net/jira/software/projects/KAN/list?jql=project+%3D+KAN+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiMTY5NjZiNWRmY2I3NDg1ZWExMDJjOTIyMDJkMjg3YjUiLCJwIjoiaiJ9
+
+---
+
 ## 📘 Descripción General
 
 Este repositorio contiene la documentación, implementación y evidencias de las decisiones arquitectónicas (ADR - *Architecture Decision Records*) aplicadas en el desarrollo del sistema **PulpApp**.
