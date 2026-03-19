@@ -96,14 +96,13 @@ Después de la refactorización, el servicio solo contiene lógica específica d
 
 ### 5.Mejora en el Manejo de Excepciones
 Se reemplazaron las excepciones genéricas:
-```java
 throw new RuntimeException("User not found");
 Por una excepción personalizada:
 throw new ResourceNotFoundException("User not found");
 
 Esto mejora la claridad, trazabilidad y manejo de errores en el sistema.
 
-##🏗️ Resultado de la Refactorización
+### 🏗️ Resultado de la Refactorización
 
 Antes:
  - Código duplicado en cada servicio
@@ -116,21 +115,26 @@ Después:
  - Mapper desacoplado
  - Servicios enfocados solo en lógica de negocio
  - Uso de excepciones personalizadas
+![](https://github.com/julianguerra1231186-crypto/ADR/blob/main/ARD1/img/Captura%20de%20pantalla%20(291).png)
 
-
-##🧪 Validación y Pruebas
+### 🧪 Validación y Pruebas
 La implementación fue validada en un entorno real utilizando Docker y pruebas manuales con Postman.
 
-##🐳 Ejecución en Docker
+
+### 🐳 Ejecución en Docker
 El microservicio ms-users se ejecutó correctamente en contenedores Docker junto con PostgreSQL.
 Se evidenció el correcto inicio del servicio mediante el log:
 Tomcat started on port 8081
-![](https://github.com/julianguerra1231186-crypto/PulpApp-Sistema-Distribuido-de-Venta-Online-de-Pulpas-Naturales/blob/main/docs/planning/04-week/Diagrama%20de%20microservicios.png)
+
+![](https://github.com/julianguerra1231186-crypto/ADR/blob/main/ARD1/img/Captura%20de%20pantalla%20(290).png)
+
 <hr>
-##🌐 Pruebas en Postman
+
+### 🌐 Pruebas en Postman
 Se realizaron pruebas funcionales a los endpoints del microservicio:
-🔹 Obtener todos los usuarios
-    GET http://localhost:8081/users
+🔹 Crear Usuario 
+    POST http://localhost:8081/users
 ✔ Respuesta correcta con lista de usuarios
+![](https://github.com/julianguerra1231186-crypto/ADR/blob/main/ARD1/img/Captura%20de%20pantalla%20(294).png)
 
 
