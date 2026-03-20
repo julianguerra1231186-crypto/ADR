@@ -70,6 +70,7 @@ Esta carpeta contiene:
   - Pruebas de endpoints en Postman con respuestas correctas
 
 🔗 Enlace al ADR-002:
+
 https://github.com/julianguerra1231186-crypto/ADR/blob/main/ARD2/2-ADR.md
 
 ---
