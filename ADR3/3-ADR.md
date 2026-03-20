@@ -89,15 +89,15 @@ Sin errores en el arranque y con manejo adecuado de excepciones.
 ![](https://github.com/julianguerra1231186-crypto/ADR/blob/main/ADR3/img/Captura%20de%20pantalla%20(323).png)
 
 ### 6. Consecuencias
-✔ Beneficios
-Manejo centralizado de errores
-Respuestas claras y consistentes
-Mejor experiencia para el cliente
-Código más limpio y mantenible
+- Beneficios
+- Manejo centralizado de errores
+- Respuestas claras y consistentes
+- Mejor experiencia para el cliente
+- Código más limpio y mantenible
 
 ### 7. Consideraciones
-Se debe extender el sistema para otros tipos de excepciones
-Mantener consistencia en todos los microservicios
+- Se debe extender el sistema para otros tipos de excepciones
+- Mantener consistencia en todos los microservicios
 
 ## Conclusión
 La implementación de excepciones personalizadas junto con un manejador global mejora significativamente la calidad del sistema, permitiendo una arquitectura más robusta, escalable y alineada con buenas prácticas de desarrollo en microservicios.
