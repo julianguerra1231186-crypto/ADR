@@ -56,15 +56,22 @@ https://github.com/julianguerra1231186-crypto/ADR/blob/main/ARD1/adr.md
 
 ---
 
-### 📂 2. ADR-002 — (Espacio para siguiente decisión arquitectónica)
+### 📂 2. ADR-002 — Implementación de MapStruct para Mapeo Automático
 
-Esta carpeta está destinada para documentar futuras decisiones arquitectónicas del sistema.
-
+Esta carpeta contiene:
+- La documentación del ADR-002 
+- La implementación de MapStruct en el microservicio ms-users  
 Aquí se incluirán:
 
-- Nuevas mejoras estructurales  
-- Cambios en la arquitectura  
-- Nuevas implementaciones relevantes  
+- Eliminación del mapeo manual en la capa de servicios
+- Implementación de UserMapper con MapStruct (@Mapper)  
+- Eliminación de la interfaz EntityMapper
+- Generación automática de código de mapeo en tiempo de compilación
+- Correcta ejecución del microservicio en Docker
+- Pruebas de endpoints en Postman con respuestas correctas
+
+🔗 Enlace al ADR-002:
+https://github.com/julianguerra1231186-crypto/ADR/blob/main/ARD2/2-ADR.md
 
 ---
 
