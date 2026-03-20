@@ -95,7 +95,7 @@ https://github.com/julianguerra1231186-crypto/ADR/blob/main/ADR3/3-ADR.md
 
 ---
 
-## 🎯 Objetivo del Repositorio
+## Objetivo del Repositorio
 
 Este repositorio tiene como finalidad:
 
@@ -106,7 +106,7 @@ Este repositorio tiene como finalidad:
 
 ---
 
-## 🚀 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - Java 17  
 - Spring Boot  
@@ -118,12 +118,11 @@ Este repositorio tiene como finalidad:
 
 ---
 
-## 🧾 Nota Final
-
-Este repositorio evidencia la aplicación de principios de:
-
-- Clean Architecture  
-- SOLID  
-- DRY (Don't Repeat Yourself)  
-
-en un entorno real de desarrollo backend basado en microservicios.
+## La implementación de los ADRs permitió:
+    - Mejorar la arquitectura del sistema
+    - Reducir duplicación de código
+    - Automatizar el mapeo de datos
+    - Implementar manejo profesional de errores
+    - Alinear el proyecto con buenas prácticas de desarrollo backend
+    - Esto da como resultado un sistema más limpio, escalable y mantenible.
+    - en un entorno real de desarrollo backend basado en microservicios.
