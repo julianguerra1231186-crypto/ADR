@@ -75,7 +75,7 @@ https://github.com/julianguerra1231186-crypto/ADR/blob/main/ARD2/2-ADR.md
 
 ---
 
-### 📂 ADR-003 — Excepciones Personalizadas por Dominio  
+### 📂 3. ADR-003 — Excepciones Personalizadas por Dominio  
 
 Esta carpeta contiene:
 - La documentación del ADR-003  
