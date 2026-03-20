@@ -88,9 +88,11 @@ Esta carpeta contiene:
   - Respuestas estructuradas en formato JSON  
   - Uso correcto de códigos HTTP (400)  
   - Correcta ejecución del microservicio en Docker  
-  - Pruebas de endpoints en Postman con manejo de errores controlado  
+  - Pruebas de endpoints en Postman con manejo de errores controlado
+
 🔗 Enlace al ADR-003:  
 https://github.com/julianguerra1231186-crypto/ADR/blob/main/ADR3/3-ADR.md
+
 ---
 
 ## 🎯 Objetivo del Repositorio
