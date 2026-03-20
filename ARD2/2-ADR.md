@@ -97,3 +97,16 @@ Crea usuarios correctamente
 Todas las respuestas se generaron correctamente usando el mapper automático de MapStruct.
 
 
+### Consecuencias
+ - Positivas
+ - Eliminación de código repetitivo
+ - Reducción de errores humanos
+ - Mayor mantenibilidad
+ - Código más limpio y escalable
+ - Mejor alineación con buenas prácticas backend
+
+### Negativas
+ - Dependencia adicional (MapStruct)
+ - Requiere configuración en el build (Maven + Docker)
+
+
