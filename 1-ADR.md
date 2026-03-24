@@ -126,3 +126,19 @@ Este repositorio tiene como finalidad:
     - Alinear el proyecto con buenas prácticas de desarrollo backend
     - Esto da como resultado un sistema más limpio, escalable y mantenible.
     - en un entorno real de desarrollo backend basado en microservicios.
+
+---
+
+## ¿Qué se hizo?:
+    - Se avanzó en la definición y documentación de las decisiones arquitectónicas (ADR), permitiendo establecer una base sólida para el desarrollo del sistema.
+      Se logró la correcta configuración del entorno en Docker, así como la conexión y funcionamiento de la base de datos en PostgreSQL.
+      Adicionalmente, se validó el correcto funcionamiento de los endpoints mediante pruebas en Postman, evidenciando que el sistema está registrando y gestionando datos de manera adecuada.
+## ¿Qué faltó?:
+    - Quedó pendiente profundizar en algunos ADR relacionados con la escalabilidad y seguridad del sistema.
+      Asimismo, falta optimizar la integración entre los servicios y realizar pruebas más completas (testing integral), especialmente en escenarios de error o alta carga.
+## ¿Qué se hará?
+   - Se continuará con la elaboración y ajuste de los ADR faltantes, enfocados en mejorar la arquitectura del sistema, Se trabajará en la optimización de la integración entre servicios y en la         implementación de pruebas más robustas, Finalmente, se avanzará en el desarrollo de nuevas funcionalidades, con el fin de garantizar estabilidad, escalabilidad y mantenimiento del sistema.
+
+
+
+
