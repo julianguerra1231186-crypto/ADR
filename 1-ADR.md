@@ -137,7 +137,7 @@ Este repositorio tiene como finalidad:
     - Quedó pendiente profundizar en algunos ADR relacionados con la escalabilidad y seguridad del sistema.
       Asimismo, falta optimizar la integración entre los servicios y realizar pruebas más completas (testing integral), especialmente en escenarios de error o alta carga.
 ## ¿Qué se hará?
-   - Se continuará con la elaboración y ajuste de los ADR faltantes, enfocados en mejorar la arquitectura del sistema, Se trabajará en la optimización de la integración entre servicios y en la         implementación de pruebas más robustas, Finalmente, se avanzará en el desarrollo de nuevas funcionalidades, con el fin de garantizar estabilidad, escalabilidad y mantenimiento del sistema.
+   -  Se trabajará en la optimización de la integración entre servicios y en la implementación de pruebas más robustas, Finalmente, se               avanzará en el desarrollo de nuevas funcionalidades, con el fin de garantizar estabilidad, escalabilidad y mantenimiento del sistema.
 
 
 
